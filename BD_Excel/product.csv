@@ -1,0 +1,31 @@
+id,name,description,price,category
+1,"Camiseta Negra","Camiseta de algodón negra",20,Camisetas
+2,"Falda Floral","Falda corta con diseño floral",30,Faldas
+3,"Jeans Azules","Jeans de corte ajustado en color azul",45,Jeans
+4,"Blusa Blanca","Blusa elegante color blanca",25,Blusas
+5,"Shorts Vaqueros","Shorts de mezclilla estilo casual",28,Shorts
+6,"Vestido Negro","Vestido de noche color negro",50,Vestidos
+7,"Sombrero de Paja","Sombrero de paja estilo veraniego",15,Accesorios
+8,"Zapatos de Tacón","Zapatos de tacón alto en color rojo",55,Zapatos
+9,"Pantalones de Cuero","Pantalones de cuero negro",40,Pantalones
+10,"Chaqueta de Mezclilla","Chaqueta de mezclilla estilo retro",38,Chaquetas
+11,"Bufanda de Lana","Bufanda de lana tejida a mano",18,Accesorios
+12,"Traje de Baño","Traje de baño de dos piezas",32,"Ropa de Baño"
+13,"Pantalones Cortos Deportivos","Pantalones cortos para actividades deportivas",22,Deportivos
+14,"Blazer Negro","Blazer elegante color negro",42,Chaquetas
+15,"Vestido Floral","Vestido estampado con flores",48,Vestidos
+16,"Gafas de Sol","Gafas de sol con protección UV",12,Accesorios
+17,"Sudadera Gris","Sudadera cómoda color gris",28,Sudaderas
+18,"Calcetines Estampados","Calcetines con diseños divertidos",6,Accesorios
+19,"Chamarra de Cuero","Chamarra de cuero estilo motociclista",75,Chaquetas
+20,"Blusa Estampada","Blusa con patrón estampado",22,Blusas
+21,"Zapatillas Deportivas","Zapatillas deportivas para correr",60,Zapatos
+22,"Vestido Elegante","Vestido elegante para ocasiones especiales",65,Vestidos
+23,"Pantalones Vaqueros Rasgados","Jeans rasgados estilo urbano",35,Jeans
+24,"Collar de Plata","Collar de plata con colgante",18,Accesorios
+25,"Jersey de Punto","Jersey de punto suave y cálido",32,Jerseys
+26,"Gorra Deportiva","Gorra ajustable para actividades deportivas",10,Accesorios
+27,"Vestido Largo","Vestido largo para eventos formales",58,Vestidos
+28,"Chaleco de Mezclilla","Chaleco de mezclilla estilo vintage",26,Chaquetas
+29,"Leggings Deportivos","Leggings elásticos para entrenamientos",20,Deportivos
+30,"Bufanda de Seda","Bufanda de seda suave y elegante",30,Accesorios
